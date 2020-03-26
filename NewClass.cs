@@ -14,6 +14,6 @@ namespace ConsoleApp1
             Console.WriteLine("ispis");
             
         }
-        //komentar
+        
     }
 }
